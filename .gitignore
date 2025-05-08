@@ -42,3 +42,5 @@ docs/examples/*
 
 # Macos files
 .DS_Store
+config.bat
+node_modules
